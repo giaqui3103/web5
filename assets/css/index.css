@@ -21,7 +21,7 @@ img{
   /* background: linear-gradient(0,#483636,#590327); */
   width: 100%;
   height: 640px;
-  background-image:url(/web/assets/img/pc.jpg);
+  background-image:url(/web5/assets/img/pc.jpg);
   background-repeat: no-repeat;
   background-size:100% 650px;
   
@@ -232,7 +232,7 @@ img{
 .middle_middle-hi{
    width: auto;
    height: 350px;
-    background-image: url(/web/assets/img/laptop1.jpg);
+    background-image: url(/web5/assets/img/laptop1.jpg);
     background-position-x: 380px;
     background-position-y: 60px;
 
@@ -243,7 +243,7 @@ img{
 .middle_middle-hi2{
    width: auto;
    height: 350px;
-    background-image: url(/web/assets/img/pctrongsuot.jpg);
+    background-image: url(/web5/assets/img/pctrongsuot.jpg);
     background-position-x: 420px;
     background-position-y: 65px;
     background-size: 250px 230px;
